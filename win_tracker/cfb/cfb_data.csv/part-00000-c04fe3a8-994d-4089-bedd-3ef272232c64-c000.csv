@@ -1,0 +1,75 @@
+season,week,awayTeam,homeTeam,awayPoints,homePoints,Winner,game_date,day_of_week_name
+2020,8,Iowa,Purdue,20,24,Purdue,2020-10-24,Saturday
+2020,9,Northwestern,Iowa,21,20,Northwestern,2020-10-31,Saturday
+2020,10,Michigan State,Iowa,7,49,Iowa,2020-11-07,Saturday
+2020,11,Iowa,Minnesota,35,7,Iowa,2020-11-13,Friday
+2020,12,Iowa,Penn State,41,21,Iowa,2020-11-21,Saturday
+2020,13,Nebraska,Iowa,20,26,Iowa,2020-11-27,Friday
+2020,14,Iowa,Illinois,35,21,Iowa,2020-12-05,Saturday
+2020,15,Wisconsin,Iowa,7,28,Iowa,2020-12-12,Saturday
+2021,1,Indiana,Iowa,6,34,Iowa,2021-09-04,Saturday
+2021,2,Iowa,Iowa State,27,17,Iowa,2021-09-11,Saturday
+2021,3,Kent State,Iowa,7,30,Iowa,2021-09-18,Saturday
+2021,4,Colorado State,Iowa,14,24,Iowa,2021-09-25,Saturday
+2021,5,Iowa,Maryland,51,14,Iowa,2021-10-01,Friday
+2021,6,Penn State,Iowa,20,23,Iowa,2021-10-09,Saturday
+2021,7,Purdue,Iowa,24,7,Purdue,2021-10-16,Saturday
+2021,9,Iowa,Wisconsin,7,27,Wisconsin,2021-10-30,Saturday
+2021,10,Iowa,Northwestern,17,12,Iowa,2021-11-06,Saturday
+2021,11,Minnesota,Iowa,22,27,Iowa,2021-11-13,Saturday
+2021,12,Illinois,Iowa,23,33,Iowa,2021-11-20,Saturday
+2021,13,Iowa,Nebraska,28,21,Iowa,2021-11-26,Friday
+2021,14,Michigan,Iowa,42,3,Michigan,2021-12-04,Saturday
+2021,1,Iowa,Kentucky,17,20,Kentucky,2022-01-01,Saturday
+2022,1,South Dakota State,Iowa,3,7,Iowa,2022-09-03,Saturday
+2022,2,Iowa State,Iowa,10,7,Iowa State,2022-09-10,Saturday
+2022,3,Nevada,Iowa,0,27,Iowa,2022-09-17,Saturday
+2022,4,Iowa,Rutgers,27,10,Iowa,2022-09-24,Saturday
+2022,5,Michigan,Iowa,27,14,Michigan,2022-10-01,Saturday
+2022,6,Iowa,Illinois,6,9,Illinois,2022-10-08,Saturday
+2022,8,Iowa,Ohio State,10,54,Ohio State,2022-10-22,Saturday
+2022,9,Northwestern,Iowa,13,33,Iowa,2022-10-29,Saturday
+2022,10,Iowa,Purdue,24,3,Iowa,2022-11-05,Saturday
+2022,11,Wisconsin,Iowa,10,24,Iowa,2022-11-12,Saturday
+2022,12,Iowa,Minnesota,13,10,Iowa,2022-11-19,Saturday
+2022,13,Nebraska,Iowa,24,17,Nebraska,2022-11-25,Friday
+2022,1,Iowa,Kentucky,21,0,Iowa,2022-12-31,Saturday
+2023,1,Utah State,Iowa,14,24,Iowa,2023-09-02,Saturday
+2023,2,Iowa,Iowa State,20,13,Iowa,2023-09-09,Saturday
+2023,3,Western Michigan,Iowa,10,41,Iowa,2023-09-16,Saturday
+2023,4,Iowa,Penn State,0,31,Penn State,2023-09-23,Saturday
+2023,5,Michigan State,Iowa,16,26,Iowa,2023-09-30,Saturday
+2023,6,Purdue,Iowa,14,20,Iowa,2023-10-07,Saturday
+2023,7,Iowa,Wisconsin,15,6,Iowa,2023-10-14,Saturday
+2023,8,Minnesota,Iowa,12,10,Minnesota,2023-10-21,Saturday
+2023,10,Iowa,Northwestern,10,7,Iowa,2023-11-04,Saturday
+2023,11,Rutgers,Iowa,0,22,Iowa,2023-11-11,Saturday
+2023,12,Illinois,Iowa,13,15,Iowa,2023-11-18,Saturday
+2023,13,Iowa,Nebraska,13,10,Iowa,2023-11-24,Friday
+2023,14,Michigan,Iowa,26,0,Michigan,2023-12-02,Saturday
+2023,1,Iowa,Tennessee,0,35,Tennessee,2024-01-01,Monday
+2024,1,Illinois State,Iowa,0,40,Iowa,2024-08-31,Saturday
+2024,2,Iowa State,Iowa,20,19,Iowa State,2024-09-07,Saturday
+2024,3,Troy,Iowa,21,38,Iowa,2024-09-14,Saturday
+2024,4,Iowa,Minnesota,31,14,Iowa,2024-09-21,Saturday
+2024,6,Iowa,Ohio State,7,35,Ohio State,2024-10-05,Saturday
+2024,7,Washington,Iowa,16,40,Iowa,2024-10-12,Saturday
+2024,8,Iowa,Michigan State,20,32,Michigan State,2024-10-19,Saturday
+2024,9,Northwestern,Iowa,14,40,Iowa,2024-10-26,Saturday
+2024,10,Wisconsin,Iowa,10,42,Iowa,2024-11-02,Saturday
+2024,11,Iowa,UCLA,17,20,UCLA,2024-11-08,Friday
+2024,13,Iowa,Maryland,29,13,Iowa,2024-11-23,Saturday
+2024,14,Nebraska,Iowa,10,13,Iowa,2024-11-29,Friday
+2024,1,Iowa,Missouri,24,27,Missouri,2024-12-30,Monday
+2025,1,UAlbany,Iowa,7,34,Iowa,2025-08-30,Saturday
+2025,2,Iowa,Iowa State,13,16,Iowa State,2025-09-06,Saturday
+2025,3,Massachusetts,Iowa,7,47,Iowa,2025-09-13,Saturday
+2025,4,Iowa,Rutgers,38,28,Iowa,2025-09-19,Friday
+2025,5,Indiana,Iowa,20,15,Indiana,2025-09-27,Saturday
+2025,7,Iowa,Wisconsin,37,0,Iowa,2025-10-11,Saturday
+2025,8,Penn State,Iowa,24,25,Iowa,2025-10-18,Saturday
+2025,9,Minnesota,Iowa,3,41,Iowa,2025-10-25,Saturday
+2025,11,Oregon,Iowa,18,16,Oregon,2025-11-08,Saturday
+2025,12,Iowa,USC,,,Tie,2025-11-15,Saturday
+2025,13,Michigan State,Iowa,,,Tie,2025-11-21,Friday
+2025,14,Iowa,Nebraska,,,Tie,2025-11-28,Friday
